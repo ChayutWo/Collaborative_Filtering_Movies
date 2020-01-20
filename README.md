@@ -1,4 +1,4 @@
-# Neighborhood Segmentation: Toronto and Bangkok
+# Neighborhood Segmentation in Big Cities: Toronto and Bangkok
 
 In this project, we give comprehensive analysis on neighborhood characteristics of Toronto and that of Bangkok. Within the same cities, ones can understand social development, business activities, and other specific aspects in different areas via such analysis. Understanding these regimes will help us answer different questions including finding potential location of new business or where to install public facilities. The data used in the analysis includes locations and reviews of different places in the cities obtained from FourSquare API "Explore" request. Hierarchical and K-Means clustering algorithms will be used with the number of final clusters from the elbow technique. 
 
